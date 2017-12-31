@@ -1,2 +1,2 @@
 # Python-Machine-Learning
-Project for university subject "Systemy Rekomendacyjne" (eng: Recommendation Systems).
+Project for university subject "Systemy Rekomendacyjne" (eng: Recommendation Systems). Language: Pytahon. Using Anaconda distribution, "The Jupyter Notebook". Libraries: numpy, pandas, matplotlib, scikid-learn. I'm analysing dataset "Pima Indians Diabetes Data Set" (https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes) and try to estimate likelihood of diabetes depending on datas like weight, age, number of times pregnant etc.
